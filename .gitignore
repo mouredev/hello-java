@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 /.metadata/
+=======
+/out/
+*.class
+>>>>>>> b1862f607dc0192a31a11be302c1d1f3bfba8323

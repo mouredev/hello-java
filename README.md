@@ -11,15 +11,30 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 2 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/GS9FTFwgbD?event=1354068045156323460)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 16 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1359623241177759814)
 
-*Aquí encontrarás toda la información de las clases grabadas y el material utilizado.*
+### Clases:
 
+* Clase 1 [02/04/2025] - Introducción y Hola Mundo
+	* [Vídeo](https://www.twitch.tv/videos/2422706574)
+	* [Código](./basic/helloworld/HelloWorld.java)
+
+* Clase 2 [09/04/2025] - Comentarios, Variables, Constantes, Tipos de datos y Operadores
+	* [Vídeo](https://www.twitch.tv/videos/2428998601)
+	* [Ejercicios Hola Mundo](./basic/helloworld/HelloWorldExercises.java)
+	* [Variables y constantes](./basic/beginner/VariablesAndConstants.java) | [Tipos de datos](./basic/beginner/DataTypes.java) | [Ejercicios](./basic/beginner/BeginnerExercises.java)
+	* [Operadores](./basic/operators/Operators.java) | [Ejercicios](./basic/operators/OperatorsExercises.java)
 
 ## Enlaces de interés
 
-*Próximamente...*
+* Impacto: [Índice TIOBE](https://www.tiobe.com/tiobe-index/) | [GitHub](https://github.blog/news-insights/octoverse/octoverse-2024/) | [Stack Overflow](https://survey.stackoverflow.co/2024/technology#most-popular-technologies-language)
+* [Historia](https://es.wikipedia.org/wiki/Java_(lenguaje_de_programaci%C3%B3n)) | [Kotlin](https://kotlinlang.org/)
+* [Java 8](https://www.java.com/es/download/) | [Java SE](https://www.oracle.com/es/java/technologies/java-se-glance.html) | [Java EE](https://www.oracle.com/es/java/technologies/java-ee-glance.html)
+* [OpenJDK](https://openjdk.org/) | [Oracle JDK](https://www.oracle.com/es/java/technologies/downloads/)
+* Editores: [IntelliJ Community](https://www.jetbrains.com/idea/download/other.html) | [VS Code](https://code.visualstudio.com/docs/languages/java) | [NetBeans](https://netbeans.apache.org/front/main/index.html) | [Eclipse](https://eclipseide.org/) | [BlueJ](https://www.bluej.org/) | [Playground web](https://dev.java/playground/)
+* [Documentación oficial](https://docs.oracle.com/en/java/)
+* [Guía de estilo](https://google.github.io/styleguide/javaguide.html)
 
 ## Únete al campus de programación de la comunidad
 
