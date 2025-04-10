@@ -11,15 +11,20 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 9 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1357082567303495943)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 16 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1359623241177759814)
 
 ### Clases:
 
 * Clase 1 [02/04/2025] - Introducción y Hola Mundo
 	* [Vídeo](https://www.twitch.tv/videos/2422706574)
-	* [Código](./HelloWorld.java)
+	* [Código](./basic/helloworld/HelloWorld.java)
 
+* Clase 2 [09/04/2025] - Comentarios, Variables, Constantes, Tipos de datos y Operadores
+	* [Vídeo](https://www.twitch.tv/videos/2428998601)
+	* [Ejercicios Hola Mundo](./basic/helloworld/HelloWorldExercises.java)
+	* [Variables y constantes](./basic/beginner/VariablesAndConstants.java) | [Tipos de datos](./basic/beginner/DataTypes.java) | [Ejercicios](./basic/beginner/BeginnerExercises.java)
+	* [Operadores](./basic/operators/Operators.java) | [Ejercicios](./basic/operators/OperatorsExercises.java)
 
 ## Enlaces de interés
 
