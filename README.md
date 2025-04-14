@@ -11,8 +11,8 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 16 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1359623241177759814)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Jueves 17 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.gg/reUygYCX?event=1359623241177759814)
 
 ### Clases:
 
