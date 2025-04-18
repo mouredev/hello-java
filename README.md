@@ -27,7 +27,7 @@
 	* [Operadores](./basic/c02_operators/Operators.java) | [Ejercicios](./basic/c02_operators/OperatorsExercises.java)
 
 * Clase 3 [17/04/2025] - Strings, Condicionales y Arrays
-	* [Vídeo](https://www.twitch.tv/videos/24360865841)
+	* [Vídeo](https://www.twitch.tv/videos/2436086584)
 	* [Strings](./basic/c03_strings/Strings.java) | [Ejercicios](./basic/c03_strings/StringsExercises.java)
 	* [Condicionales](./basic/c04_conditionals/Conditionals.java) | [Ejercicios](./basic/c04_conditionals/ConditionalsExercises.java)
 	* [Arrays](./basic/c05_structures/Arrays.java)
