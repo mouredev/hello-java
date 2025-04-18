@@ -1,4 +1,4 @@
-package basic.operators;
+package basic.c02_operators;
 
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
