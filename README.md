@@ -11,20 +11,26 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 16 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1359623241177759814)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 30 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1362554235664990578/1367198819942400000)
 
 ### Clases:
 
 * Clase 1 [02/04/2025] - Introducción y Hola Mundo
 	* [Vídeo](https://www.twitch.tv/videos/2422706574)
-	* [Código](./basic/helloworld/HelloWorld.java)
+	* [Código](./basic/c00_helloworld/HelloWorld.java)
 
 * Clase 2 [09/04/2025] - Comentarios, Variables, Constantes, Tipos de datos y Operadores
 	* [Vídeo](https://www.twitch.tv/videos/2428998601)
-	* [Ejercicios Hola Mundo](./basic/helloworld/HelloWorldExercises.java)
-	* [Variables y constantes](./basic/beginner/VariablesAndConstants.java) | [Tipos de datos](./basic/beginner/DataTypes.java) | [Ejercicios](./basic/beginner/BeginnerExercises.java)
-	* [Operadores](./basic/operators/Operators.java) | [Ejercicios](./basic/operators/OperatorsExercises.java)
+	* [Ejercicios Hola Mundo](./basic/c00_helloworld/HelloWorldExercises.java)
+	* [Variables y constantes](./basic/c01_beginner/VariablesAndConstants.java) | [Tipos de datos](./basic/c01_beginner/DataTypes.java) | [Ejercicios](./basic/c01_beginner/BeginnerExercises.java)
+	* [Operadores](./basic/c02_operators/Operators.java) | [Ejercicios](./basic/c02_operators/OperatorsExercises.java)
+
+* Clase 3 [17/04/2025] - Strings, Condicionales y Arrays
+	* [Vídeo](https://www.twitch.tv/videos/2436086584)
+	* [Strings](./basic/c03_strings/Strings.java) | [Ejercicios](./basic/c03_strings/StringsExercises.java)
+	* [Condicionales](./basic/c04_conditionals/Conditionals.java) | [Ejercicios](./basic/c04_conditionals/ConditionalsExercises.java)
+	* [Arrays](./basic/c05_structures/Arrays.java)
 
 ## Enlaces de interés
 

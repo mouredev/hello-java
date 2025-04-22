@@ -1,4 +1,4 @@
-package basic.helloworld;
+package basic.c00_helloworld;
 
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)

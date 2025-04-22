@@ -1,4 +1,4 @@
-package basic.beginner;
+package basic.c01_beginner;
 
 /*
 Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
