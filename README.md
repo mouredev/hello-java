@@ -11,8 +11,8 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 30 de abril a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1362554235664990578/1367198819942400000)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 7 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1367238643906773103/1369735535001600000)
 
 ### Clases:
 
@@ -31,6 +31,13 @@
 	* [Strings](./basic/c03_strings/Strings.java) | [Ejercicios](./basic/c03_strings/StringsExercises.java)
 	* [Condicionales](./basic/c04_conditionals/Conditionals.java) | [Ejercicios](./basic/c04_conditionals/ConditionalsExercises.java)
 	* [Arrays](./basic/c05_structures/Arrays.java)
+
+* Clase 4 [31/04/2025] - Listas, Sets y Mapas
+	* [Vídeo](https://www.twitch.tv/videos/2447254597)
+	* [Listas](./basic/c05_structures/Lists.java)
+	* [Sets](./basic/c05_structures/Sets.java)
+	* [Mapas](./basic/c05_structures/Maps.java)
+	* [Ejercicios](./basic/c05_structures/StructuresExercises.java)
 
 ## Enlaces de interés
 
