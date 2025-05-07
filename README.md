@@ -11,8 +11,8 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Martes 6 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1367238643906773103/1369735535001600000)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 14 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1367238643906773103)
 
 ### Clases:
 
@@ -38,6 +38,11 @@
 	* [Sets](./basic/c05_structures/Sets.java)
 	* [Mapas](./basic/c05_structures/Maps.java)
 	* [Ejercicios](./basic/c05_structures/StructuresExercises.java)
+
+* Clase 5 [17/04/2025] - Bucles y funciones
+	* [Vídeo](https://www.twitch.tv/videos/2452053839)
+	* [Bucles](./basic/c06_loops/Loops.java) | [Ejercicios](./basic/c06_loops/LoopsExercises.java)
+	* [Funciones](./basic/c07_functions/Functions.java) | [Ejercicios](./basic/c07_functions/FunctionsExercises.java)
 
 ## Enlaces de interés
 
