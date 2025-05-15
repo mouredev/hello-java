@@ -11,8 +11,8 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 14 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1367238643906773103)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 21 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1372312583033585824/1374808965120000000)
 
 ### Clases:
 
@@ -39,10 +39,17 @@
 	* [Mapas](./basic/c05_structures/Maps.java)
 	* [Ejercicios](./basic/c05_structures/StructuresExercises.java)
 
-* Clase 5 [17/04/2025] - Bucles y funciones
+* Clase 5 [06/05/2025] - Bucles y funciones
 	* [Vídeo](https://www.twitch.tv/videos/2452053839)
 	* [Bucles](./basic/c06_loops/Loops.java) | [Ejercicios](./basic/c06_loops/LoopsExercises.java)
 	* [Funciones](./basic/c07_functions/Functions.java) | [Ejercicios](./basic/c07_functions/FunctionsExercises.java)
+
+* Clase 6 [14/05/2025] - Clases, encapsulamiento y herencia
+	* [Vídeo](https://www.twitch.tv/videos/2459212698)
+	* [Clases](./basic/c08_oop/Classes.java) | [Clase Persona](./basic/c08_oop/Person.java) | [Ejercicios](./basic/c08_oop/ClassesExercises.java)
+	* [Encapsulamiento](./basic/c08_oop/AccessModifiers.java) | [Clases (otro paquete para pruebas)](./basic/c08_test_oop/Classes.java)
+	* [Herencia](./basic/c08_oop/Inheritance.java)
+
 
 ## Enlaces de interés
 
