@@ -11,8 +11,8 @@
 
 ## 🆕 NUEVO: Curso desde cero [En desarrollo]
 
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 21 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1372312583033585824/1374808965120000000)
+### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 28 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
+### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1374840442600030268/1377345680179200000)
 
 ### Clases:
 
@@ -49,6 +49,13 @@
 	* [Clases](./basic/c08_oop/Classes.java) | [Clase Persona](./basic/c08_oop/Person.java) | [Ejercicios](./basic/c08_oop/ClassesExercises.java)
 	* [Encapsulamiento](./basic/c08_oop/AccessModifiers.java) | [Clases (otro paquete para pruebas)](./basic/c08_test_oop/Classes.java)
 	* [Herencia](./basic/c08_oop/Inheritance.java)
+
+* Clase 7 [21/05/2025] - Polimorfismo, abstracción y composición
+	* [Vídeo](https://www.twitch.tv/videos/2464789369)
+	* [Polimorfismo](./basic/c08_oop/Polymorphism.java)
+	* [Abstracción](./basic/c08_oop/Abstraction.java)
+	* [Composición](./basic/c08_oop/Composition.java)
+	* Ejercicios: [Encapsulamiento](./basic/c08_oop/AccessModifiersExercises.java) | [Herencia](./basic/c08_oop/InheritanceExercises.java) | [Polimorfismo](./basic/c08_oop/PolymorphismExercises.java) | [Abstracción](./basic/c08_oop/AbstractionExercises.java)
 
 
 ## Enlaces de interés

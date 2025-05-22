@@ -9,7 +9,7 @@ public class Inheritance {
 
     public static void main(String[] args) {
 
-        // Herencia
+        // Herencia ("es un")
 
         var animal = new Animal("Mi animal");
 //        animal.name = "Mi animal";
