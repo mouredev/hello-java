@@ -9,10 +9,8 @@
 ### Proyecto realizado durante emisiones en directo desde [Twitch](https://twitch.tv/mouredev)
 > ##### Si consideras útil el curso, apóyalo haciendo "★ Star" en el repositorio. ¡Gracias!
 
-## 🆕 NUEVO: Curso desde cero [En desarrollo]
-
-### 🔴 PRÓXIMA CLASE EN DIRECTO: Miércoles 28 de mayo a las 20:00h (España) en [Twitch](https://twitch.tv/mouredev)
-### 🗓️ CONSULTA EL HORARIO POR PAÍS Y CREA UN RECORDATORIO desde [Discord](https://discord.com/events/729672926432985098/1374840442600030268/1377345680179200000)
+## Curso desde cero
+### Próximamente se subirá editado a [YouTube](https://youtube.com/@mouredev) y con extras (ejercicios, test, examen, certificado y soporte) a [mouredev pro](https://mouredev.pro)
 
 ### Clases:
 
@@ -57,6 +55,11 @@
 	* [Composición](./basic/c08_oop/Composition.java)
 	* Ejercicios: [Encapsulamiento](./basic/c08_oop/AccessModifiersExercises.java) | [Herencia](./basic/c08_oop/InheritanceExercises.java) | [Polimorfismo](./basic/c08_oop/PolymorphismExercises.java) | [Abstracción](./basic/c08_oop/AbstractionExercises.java)
 
+* Clase 8 [28/05/2025] - Manejo de excepciones, depuración y extras
+	* [Vídeo](https://www.twitch.tv/videos/2471305243)
+	* [Excepciones](./basic/c09_exceptions/Exceptions.java) | [Lanzamiento](./basic/c09_exceptions/ThrowExample.java) | [Excepciones personalizadas](./basic/c09_exceptions/CustomException.java) | [Ejercicios](./basic/c09_exceptions/ExceptionsExercises.java)
+	* [Extras](./basic/c10_extras/Extras.java) | [Ejemplo](./basic/c10_extras/ExtrasExample.java) | [Ejercicios](./basic/c10_extras/ExtrasExercises.java)
+
 
 ## Enlaces de interés
 
@@ -88,6 +91,9 @@ Si la acogida de la comunidad es buena, seguiré creando cursos más avanzados.
 #### ¿Este curso se va a subir a YouTube?
 
 Sí, una vez finalizados, todos los cursos son editados y subidos en bloque a YouTube.
+
+#### ¿Se creará una continuación del curso?
+Si, una vez publicado en YouTube, el apoyo de la comunidad es bueno, crearé un nuevo curso con lecciones más avanzadas.
 
 #### ¿Existe algún lugar donde consultar dudas?
 He creado un canal llamado "Java" en el [servidor de Discord](https://discord.gg/mouredev) de la comunidad. Allí puedes consultar dudas y ayudar al resto de miembros. Así nos beneficiamos tod@s.
