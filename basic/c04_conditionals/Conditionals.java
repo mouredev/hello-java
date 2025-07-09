@@ -1,8 +1,8 @@
 package basic.c04_conditionals;
 
 /*
-Clase 3 - Strings, Condicionales y Arrays (17/04/2025)
-Vídeo: https://www.twitch.tv/videos/2436086584
+Clase 35 - Condicionales
+Vídeo: https://youtu.be/JOAqpdM36wI?t=9908
 */
 
 public class Conditionals {
@@ -10,6 +10,11 @@ public class Conditionals {
     public static void main(String[] args) {
 
         // Condicionales
+
+        /*
+        Clase 36 - Sentencia if
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=9978
+        */
 
         // if, else if, else
 
@@ -24,6 +29,11 @@ public class Conditionals {
         } else {
             System.out.println("El usuario es menor de edad");
         }
+
+        /*
+        Clase 37 - Sentencia switch
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=10678
+        */
 
         // switch
 

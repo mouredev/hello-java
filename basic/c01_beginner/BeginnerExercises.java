@@ -1,8 +1,8 @@
 package basic.c01_beginner;
 
 /*
-Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
-Vídeo: https://www.twitch.tv/videos/2428998601
+Clase 17 - Ejercicios: Variables y constantes
+Vídeo: https://youtu.be/JOAqpdM36wI?t=6732
 */
 
 public class BeginnerExercises {

@@ -1,8 +1,8 @@
 package basic.c05_structures;
 
 /*
-Clase 3 - Strings, Condicionales y Arrays (17/04/2025)
-Vídeo: https://www.twitch.tv/videos/2436086584
+Clase 40 - Arrays
+Vídeo: https://youtu.be/JOAqpdM36wI?t=11194
 */
 
 public class Arrays {

@@ -1,8 +1,8 @@
 package basic.c06_loops;
 
 /*
-Clase 5 - Bucles y funciones (06/05/2025)
-Vídeo: https://www.twitch.tv/videos/2452053839
+Clase 50 - Ejercicios: Bucles
+Vídeo: https://youtu.be/JOAqpdM36wI?t=17993
 */
 
 public class LoopsExercises {

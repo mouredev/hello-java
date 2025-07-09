@@ -1,8 +1,8 @@
 package basic.c00_helloworld;
 
 /*
-Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
-Vídeo: https://www.twitch.tv/videos/2428998601
+Clase 14 - Ejercicios: Primeros pasos
+Vídeo: https://youtu.be/JOAqpdM36wI?t=5108
 */
 
 public class HelloWorldExercises {

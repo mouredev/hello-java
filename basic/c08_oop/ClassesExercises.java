@@ -1,8 +1,8 @@
 package basic.c08_oop;
 
 /*
-Clase 6 - Clases, encapsulamiento y herencia (14/05/2025)
-Vídeo: https://www.twitch.tv/videos/2459212698
+Clase 58 - Ejercicios: Clases y objetos
+Vídeo: https://youtu.be/JOAqpdM36wI?t=21434
 */
 
 public class ClassesExercises {

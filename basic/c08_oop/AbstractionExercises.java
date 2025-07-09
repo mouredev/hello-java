@@ -1,8 +1,8 @@
 package basic.c08_oop;
 
 /*
-Clase 7 - Polimorfismo, abstracción y composición (21/05/2025)
-Vídeo: https://www.twitch.tv/videos/2464789369
+Clase 66 - Ejercicios: Abstracción
+Vídeo: https://youtu.be/JOAqpdM36wI?t=26892
 */
 
 public class AbstractionExercises {

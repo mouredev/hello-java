@@ -1,8 +1,8 @@
 package basic.c05_structures;
 
 /*
-Clase 4 - Listas, Sets y Mapas (31/04/2025)
-Vídeo: https://www.twitch.tv/videos/2447254597
+Clase 42 - Sets
+Vídeo: https://youtu.be/JOAqpdM36wI?t=13502
 */
 
 import java.util.HashSet;

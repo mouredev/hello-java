@@ -1,8 +1,8 @@
 package basic.c02_operators;
 
 /*
-Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
-Vídeo: https://www.twitch.tv/videos/2428998601
+Clase 23 - Ejercicios: Operadores
+Vídeo: https://youtu.be/JOAqpdM36wI?t=8085
 */
 
 public class OperatorsExercises {

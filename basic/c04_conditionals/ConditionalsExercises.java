@@ -1,8 +1,8 @@
 package basic.c04_conditionals;
 
 /*
-Clase 3 - Strings, Condicionales y Arrays (17/04/2025)
-Vídeo: https://www.twitch.tv/videos/2436086584
+Clase 38 - Ejercicios: Condicionales
+Vídeo: https://youtu.be/JOAqpdM36wI?t=11021
 */
 
 public class ConditionalsExercises {

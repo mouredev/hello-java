@@ -1,8 +1,8 @@
 package basic.c06_loops;
 
 /*
-Clase 5 - Bucles y funciones (06/05/2025)
-Vídeo: https://www.twitch.tv/videos/2452053839
+Clase 45 - Bucles
+Vídeo: https://youtu.be/JOAqpdM36wI?t=15862
 */
 
 import java.util.HashMap;
@@ -15,6 +15,11 @@ public class Loops {
 
         // Loops
 
+        /*
+        Clase 46 - for
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=16003
+        */
+
         // - for controlado por contador
 
         for (int index = 0; index < 5; index++) {
@@ -26,6 +31,11 @@ public class Loops {
         for (int index = 0; index < names.length; index++) {
             System.out.println(names[index]);
         }
+
+        /*
+        Clase 47 - forEach
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=16646
+        */
 
         // - for-each
 
@@ -53,6 +63,11 @@ public class Loops {
             System.out.println(email.getKey());
             System.out.println(email.getValue());
         }
+
+        /*
+        Clase 48 - while / do while
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=17199
+        */
 
         // - while
 
@@ -85,6 +100,11 @@ public class Loops {
             System.out.println("Hola, Java!");
             index++;
         } while (index < 0);
+
+        /*
+        Clase 49 - Control de bucles
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=17688
+        */
 
         // Control de bucles
 

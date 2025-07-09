@@ -1,8 +1,8 @@
 package basic.c08_test_oop;
 
 /*
-Clase 6 - Clases, encapsulamiento y herencia (14/05/2025)
-Vídeo: https://www.twitch.tv/videos/2459212698
+Clase 59 - Modificadores de acceso
+Vídeo: https://youtu.be/JOAqpdM36wI?t=21542
 */
 
 import basic.c08_oop.Person;

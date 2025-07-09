@@ -1,15 +1,13 @@
 package basic.c02_operators;
 
-/*
-Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
-Vídeo: https://www.twitch.tv/videos/2428998601
-*/
-
 public class Operators {
 
     public static void main(String[] args) {
 
-        // Operadores
+        /*
+        Clase 18 - Operadores aritméticos
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=6803
+        */
 
         // Aritméticos
 
@@ -21,6 +19,11 @@ public class Operators {
         System.out.println(a * b);
         System.out.println(a / b);
         System.out.println(a % b);
+
+        /*
+        Clase 19 - Operadores de asignación
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=7069
+        */
 
         // Asignación
 
@@ -42,6 +45,11 @@ public class Operators {
         a %= 2;
         System.out.println(a);
 
+        /*
+        Clase 20 - Operadores de comparación
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=7328
+        */
+
         // Comparación (Relacionales)
 
         System.out.println(a == b);
@@ -52,6 +60,11 @@ public class Operators {
         System.out.println(a >= b);
         System.out.println(a < b);
         System.out.println(a <= b);
+
+        /*
+        Clase 21 - Operadores lógicos
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=7517
+        */
 
         // Lógicos
 
@@ -76,6 +89,11 @@ public class Operators {
         System.out.println(!false);
 
         System.out.println(!(3 > 2) || 5 == 2);
+
+        /*
+        Clase 22 - Operadores unarios
+        Vídeo: https://youtu.be/JOAqpdM36wI?t=7863
+        */
 
         // Unarios
         System.out.println(+b);

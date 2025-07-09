@@ -1,8 +1,8 @@
 package basic.c07_functions;
 
 /*
-Clase 5 - Bucles y funciones (06/05/2025)
-Vídeo: https://www.twitch.tv/videos/2452053839
+Clase 55 - Ejercicios: Funciones
+Vídeo: https://youtu.be/JOAqpdM36wI?t=19521
 */
 
 public class FunctionsExercises {

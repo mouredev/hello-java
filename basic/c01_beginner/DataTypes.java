@@ -1,8 +1,8 @@
 package basic.c01_beginner;
 
 /*
-Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
-Vídeo: https://www.twitch.tv/videos/2428998601
+Clase 16 - Tipos de datos primitivos
+Vídeo: https://youtu.be/JOAqpdM36wI?t=6211
 */
 
 public class DataTypes {

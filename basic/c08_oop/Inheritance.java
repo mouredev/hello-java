@@ -1,8 +1,8 @@
 package basic.c08_oop;
 
 /*
-Clase 6 - Clases, encapsulamiento y herencia (14/05/2025)
-Vídeo: https://www.twitch.tv/videos/2459212698
+Clase 61 - Herencia
+Vídeo: https://youtu.be/JOAqpdM36wI?t=23334
 */
 
 public class Inheritance {

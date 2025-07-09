@@ -1,8 +1,8 @@
 package basic.c10_extras;
 
 /*
-Clase 8 - Manejo de excepciones, depuración y extras (28/05/2025)
-Vídeo: https://www.twitch.tv/videos/2471305243
+Clase 75 - Ejercicios: Extras
+Vídeo: https://youtu.be/JOAqpdM36wI?t=31583
 */
 
 public class ExtrasExercises {

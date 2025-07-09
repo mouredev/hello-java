@@ -1,8 +1,8 @@
 package basic.c05_structures;
 
 /*
-Clase 4 - Listas, Sets y Mapas (31/04/2025)
-Vídeo: https://www.twitch.tv/videos/2447254597
+Clase 41 - Listas
+Vídeo: https://youtu.be/JOAqpdM36wI?t=12233
 */
 
 import java.util.ArrayList;

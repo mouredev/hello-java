@@ -1,11 +1,11 @@
 package basic.c00_helloworld;
 
 /*
-Clase 1 - Introducción y Hola Mundo (02/04/2025)
-Vídeo: https://www.twitch.tv/videos/2422706574
--
-Clase 2 - Comentarios, Variables, Constantes, Tipos de datos y Operadores (09/04/2025)
-Vídeo: https://www.twitch.tv/videos/2428998601
+Clase 12 - Hola Mundo
+Vídeo: https://youtu.be/JOAqpdM36wI?t=4250
+
+Clase 13 - Comentarios
+Vídeo: https://youtu.be/JOAqpdM36wI?t=4937
 */
 
 // Hola Mundo
@@ -13,6 +13,7 @@ Vídeo: https://www.twitch.tv/videos/2428998601
 public class HelloWorld {
 
     public static void main(String[] args) {
+
         System.out.println("Hola, Java!");
     }
 }

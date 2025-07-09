@@ -1,8 +1,8 @@
 package basic.c09_exceptions;
 
 /*
-Clase 8 - Manejo de excepciones, depuración y extras (28/05/2025)
-Vídeo: https://www.twitch.tv/videos/2471305243
+Clase 72 - Ejercicios: Excepciones
+Vídeo: https://youtu.be/JOAqpdM36wI?t=29721
 */
 
 public class ExceptionsExercises {

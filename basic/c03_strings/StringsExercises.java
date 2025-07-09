@@ -1,8 +1,8 @@
 package basic.c03_strings;
 
 /*
-Clase 3 - Strings, Condicionales y Arrays (17/04/2025)
-Vídeo: https://www.twitch.tv/videos/2436086584
+Clase 34 - Ejercicios: Strings
+Vídeo: https://youtu.be/JOAqpdM36wI?t=9838
 */
 
 public class StringsExercises {
